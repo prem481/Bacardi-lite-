@@ -57,7 +57,7 @@ transition: .5;
 }
 @media(max-height:981px){
     label.logo{
-        font-size: 80px;
+        font-size: 40px;
         padding-right:100px;
         background: url(image/baca.png) no-repeat;
         background-size:contain;
@@ -67,7 +67,7 @@ transition: .5;
         font-size : 17px;
     }
 }
-@media (max-width: 858px){
+@media (max-width: 490px){
     .checkbtn{
         display: block;
     }
@@ -111,8 +111,5 @@ section{
     cursor: pointer;
     display: none;
 }
-
-
-
 
 
